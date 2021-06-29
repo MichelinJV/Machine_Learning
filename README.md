@@ -11,7 +11,7 @@ Projetos exitentes nesse repositório:
 
 * brazilian_houses_to rent (Regressão): Usando dados de casas na cidade de São Paulo, criamos um modelo que prevê o valor do aluguém do imóvel.
 
-* conceto (Regressão): Prevemos a resistência de amostras de concreto.
+* concreto (Regressão): Prevemos a resistência de amostras de concreto.
 
 * coffee_comsumption (Regressão): Projeto que prevê o consumo de café nos países produtores/consumidores.
 
@@ -24,6 +24,6 @@ trabalhar com classificação supervisionada não balanceada, ou seja, quando ex
 
 2. APRENDIZADO NÃO SUPERVISIONADO
 
-* ceramic_clusters: O trabalho aborda a criação de modelos que conseguem distinguir e separar em diferentes grupos de cerãmicas chinesas antigas que possuem disttintas composições químicas.
+* ceramic_clusters: O trabalho aborda a criação de modelos que conseguem distinguir e separar em diferentes grupos de cerâmicas chinesas antigas que possuem distintas composições químicas.
 
-* mall_cluster: Projeto que usa dados dos clientes de uma loja para separálos em grupos para direcionar produtos e promoções específicas. 
+* mall_cluster: Projeto que usa dados dos clientes de uma loja, separando-os em grupos distintos e assim acilitando para direcionar produtos e promoções específicas. 
