@@ -15,7 +15,7 @@ Projetos exitentes nesse repositório:
 * <a href="https://github.com/MichelinJV/Machine_Learning/blob/master/concreto_regression.ipynb">concreto (Regressão): </a>
 Prevemos a resistência de amostras de concreto.
 
-* <a href="https://github.com/MichelinJV/Machine_Learning/blob/master/coffee_consuption_regression.ipynb">coffee_consuption (Regressão): </a>
+* <a href="https://github.com/MichelinJV/Machine_Learning/blob/master/coffee_consuption_regression.ipynb">coffee_consumption (Regressão): </a>
 Projeto que prevê o consumo de café nos países produtores/consumidores.
 
 * <a href="https://github.com/MichelinJV/Machine_Learning/blob/master/coffee_classification.ipynb">coffee (Classificação): <a/>
@@ -32,5 +32,5 @@ trabalhar com classificação supervisionada não balanceada, ou seja, quando ex
 * <a href="https://github.com/MichelinJV/Machine_Learning/blob/master/ceramic_clusters.ipynb">ceramic_clusters: </a>
 O trabalho aborda a criação de modelos que conseguem distinguir e separar em diferentes grupos de cerâmicas chinesas antigas que possuem distintas composições químicas.
 
-* <a href="https://github.com/MichelinJV/Machine_Learning/blob/master/mall_cluster.ipynb">mall_cluster: <a/>
+* <a href="https://github.com/MichelinJV/Machine_Learning/blob/master/mall_customers_clusters.ipynb">mall_cluster: <a/>
 Projeto que usa dados dos clientes de uma loja, separando-os em grupos distintos e assim acilitando para direcionar produtos e promoções específicas. 
