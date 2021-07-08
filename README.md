@@ -9,9 +9,6 @@ Projetos exitentes nesse repositório:
 
 1. APRENDIZADO SUPERVISIONADO 
 
-* <a href="https://github.com/MichelinJV/Machine_Learning/blob/master/brazilian_houses_to_rent_regression.ipynb">brazilian_houses_to_rent (Regressão): </a>
- Usando dados de casas na cidade de São Paulo, criamos um modelo que prevê o valor do aluguém do imóvel.
-
 * <a href="https://github.com/MichelinJV/Machine_Learning/blob/master/concreto_regression.ipynb">concreto (Regressão): </a>
 Prevemos a resistência de amostras de concreto.
 
