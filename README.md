@@ -7,7 +7,7 @@ Machine Learning é o termo em inglês para a tecnologia conhecida no Brasil com
 
 Projetos exitentes nesse repositório:
 
-1. APRENDIZADO SUPERVISIONADO 
+## 1. APRENDIZADO SUPERVISIONADO 
 
 * <a href="https://github.com/MichelinJV/Machine_Learning/blob/master/concreto_regression.ipynb">concreto (Regressão): </a>
 Prevemos a resistência de amostras de concreto.
@@ -24,7 +24,7 @@ trabalhar com classificação supervisionada não balanceada, ou seja, quando ex
 
 ------------------------------------------------------
 
-2. APRENDIZADO NÃO SUPERVISIONADO
+## 2. APRENDIZADO NÃO SUPERVISIONADO
 
 * <a href="https://github.com/MichelinJV/Machine_Learning/blob/master/ceramic_clusters.ipynb">ceramic_clusters: </a>
 O trabalho aborda a criação de modelos que conseguem distinguir e separar em diferentes grupos de cerâmicas chinesas antigas que possuem distintas composições químicas.
