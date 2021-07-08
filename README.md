@@ -15,13 +15,13 @@ Projetos exitentes nesse repositório:
 * <a href="https://github.com/MichelinJV/Machine_Learning/blob/master/concreto_regression.ipynb">concreto (Regressão): </a>
 Prevemos a resistência de amostras de concreto.
 
-* <a href="https://github.com/MichelinJV/Machine_Learning/blob/master/coffe_consuption_regression.ipynb">coffee_comsumption (Regressão): </a>
+* <a href="https://github.com/MichelinJV/Machine_Learning/blob/master/coffee_consuption_regression.ipynb">coffee_consuption (Regressão): </a>
 Projeto que prevê o consumo de café nos países produtores/consumidores.
 
 * <a href="https://github.com/MichelinJV/Machine_Learning/blob/master/coffee_classification.ipynb">coffee (Classificação): <a/>
 Este projeto cria modelos que distinguem o tipo de café em arábica e robusto e também classifica a qualidade da bebida.
 
-* <a href="https://github.com/MichelinJV/Machine_Learning/blob/master/SECOM_classification.ipynb">SECOM (Classificação): <a/>
+* <a href="https://github.com/MichelinJV/Machine_Learning/blob/master/SECOM_classification_no_balanced.ipynb">SECOM (Classificação): <a/>
 Projeto de controle de qualidade de semicondutores, classificando aqueles que são aprovados e os que são reprovados. Neste projeto mostramos como
 trabalhar com classificação supervisionada não balanceada, ou seja, quando existe uma diferença muito grande entre as quantidades de classes de cada tipo.
 
