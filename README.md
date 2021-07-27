@@ -16,7 +16,7 @@ Prevemos a resistência de amostras de concreto.
 Projeto que prevê o consumo de café nos países produtores/consumidores.
 
 * <a href="https://github.com/MichelinJV/Machine_Learning/blob/master/coffee_classification.ipynb">coffee (Classificação): <a/>
-Este projeto cria modelos que distinguem o tipo de café em arábica e robusto e também classifica a qualidade da bebida.
+Este projeto cria modelos que distinguem o tipo de café em arábica ou robusto e também classifica a qualidade da bebida.
 
 * <a href="https://github.com/MichelinJV/Machine_Learning/blob/master/SECOM_classification_no_balanced.ipynb">SECOM (Classificação): <a/>
 Projeto de controle de qualidade de semicondutores, classificando aqueles que são aprovados e os que são reprovados. Neste projeto mostramos como
@@ -30,4 +30,4 @@ trabalhar com classificação supervisionada não balanceada, ou seja, quando ex
 O trabalho aborda a criação de modelos que conseguem distinguir e separar em diferentes grupos de cerâmicas chinesas antigas que possuem distintas composições químicas.
 
 * <a href="https://github.com/MichelinJV/Machine_Learning/blob/master/mall_customers_clusters.ipynb">mall_cluster: <a/>
-Projeto que usa dados dos clientes de uma loja, separando-os em grupos distintos e assim acilitando para direcionar produtos e promoções específicas. 
+Projeto que usa dados dos clientes de uma loja, separando-os em grupos distintos e, assim, facilitando para direcionar produtos e promoções específicas para cada grupo de cliente. 
